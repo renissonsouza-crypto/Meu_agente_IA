@@ -1,5 +1,6 @@
 import ollama
 
+instrucao= "Voce e um agente de IA especifico para atender os nossos cliente e fornecedores da ofinca de Mecanica"
 print("Agente Pronto !!! Digite 'Sair' para encerrarmos a aplicação")
 
 while True:
